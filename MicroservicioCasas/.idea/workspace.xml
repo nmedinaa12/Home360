@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af9c059f-3208-4dcd-a201-37378afe4885" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="34i9FHKgu4oo1jIlKHlbWNo7miI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MicroservicioCasasApplication.executor": "Coverage",
+    "Gradle.Build MicroservicioCasas.executor": "Run",
+    "Gradle.MicroservicioCasas [:MicroservicioCasas.MicroservicioCasas.MicroservicioCasasApplication.main()].executor": "Run",
+    "Gradle.MicroservicioCasas [:MicroservicioCasas.MicroservicioCasasApplication.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/nmedi/Desktop/MicroservicioCasas"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nmedi\Documents\MicroservicioCasas\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MicroservicioCasas.MicroservicioCasasApplication">
+    <configuration name="MicroservicioCasasApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MicroservicioCasas.MicroservicioCasas.MicroservicioCasasApplication" />
+      <module name="MicroservicioCasas.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MicroservicioCasas.MicroservicioCasas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroservicioCasas.MicroservicioCasasApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MicroservicioCasas.MicroservicioCasasApplication" />
+      <module name="MicroservicioCasas.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MicroservicioCasas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MicroservicioCasas.MicroservicioCasasApplication" />
+        <item itemvalue="Application.MicroservicioCasasApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af9c059f-3208-4dcd-a201-37378afe4885" name="Changes" comment="" />
+      <created>1761685419340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761685419340</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MicroservicioCasas$MicroservicioCasasApplication.ic" NAME="MicroservicioCasasApplication Coverage Results" MODIFIED="1761685739593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>MicroservicioCasas.MicroservicioCasas.*</FILTER>
+    </SUITE>
+  </component>
+</project>
